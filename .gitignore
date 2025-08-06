@@ -1,0 +1,17 @@
+# Byte‑code
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large artefacts
+*.wav
+*.mp4
+*.avi
+*.mkv
+*.h5
+*.rc4
+*.rc2
+
+# Virtual envs
+.env/
+.venv/

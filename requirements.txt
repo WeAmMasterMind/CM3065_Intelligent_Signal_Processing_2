@@ -1,0 +1,9 @@
+opencv-python
+numpy
+scipy
+matplotlib
+ffmpeg-python
+pydub
+bitstring
+jupyterlab
+yolov8n
